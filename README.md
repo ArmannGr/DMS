@@ -6,7 +6,7 @@ Dieses Repository enthält die Analyse des S&P 500 Index im Rahmen des Moduls "D
 
 Das Projekt besteht aus folgenden Jupyter Notebooks:
 
-### 1. `ARIMA.ipynb`
+### 1. `ARIMA & S-ARIMA.ipynb`
 Dieses Notebook befasst sich mit der Modellierung des S&P 500 Kursverlaufs mithilfe von ARIMA-Modellen (AutoRegressive Integrated Moving Average).
 - **Ziele:** Untersuchung der Stationarität, Parameterbestimmung und Prognose der Zeitreihe.
 - **Methoden:** Differenzierung, ACF/PACF-Analyse, ARIMA-Fitting.
